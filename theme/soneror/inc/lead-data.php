@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Söne Rör AB',
+	'bransch'        => 'VVS-montör',
 	'telefon'        => '0510-53 10 53',
 	'telefon_tel'    => '+46510531053',
 	'ort'            => 'Lidköping',
